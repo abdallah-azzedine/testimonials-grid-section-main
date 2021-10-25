@@ -5,7 +5,7 @@ body
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    background-color: rgb(161, 169, 175);
+    background-color: hsl(0, 0%, 81%);
     font-family: 'Barlow Semi Condensed', sans-serif;
 }
 header
